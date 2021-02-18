@@ -1,0 +1,1 @@
+本文件内描述的是从hg19基因组里提取的和RNA_K.bed 以及 RNA_K_PDS.bed文件sequence数目和长度相同的sequence
