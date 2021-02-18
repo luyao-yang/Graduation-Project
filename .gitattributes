@@ -1,0 +1,5 @@
+Score_G4/ filter=lfs diff=lfs merge=lfs -text
+DNA_Check/heck filter=lfs diff=lfs merge=lfs -text
+DNA_Check/ filter=lfs diff=lfs merge=lfs -text
+DNA_Check/FASTA_no_DNA filter=lfs diff=lfs merge=lfs -text
+DNA_Check/FASTA_no_DNA/ filter=lfs diff=lfs merge=lfs -text
